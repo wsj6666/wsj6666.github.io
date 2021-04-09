@@ -1,1 +1,81 @@
-theme: jekyll-theme-slate
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
+
+# Social links
+googleplus_username: citations?user=mppCKUoAAAAJ&hl=en
+orcid_username: 0000-0001-7032-5474
+
+# Personal info
+name: Wen Sijia/温思嘉
+email: sijiawen@buaa.edu.cn
+# email_title: Email (Email title override)
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# About Sectionprofile
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/WenSijia.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am currently pursuing the Ph.D. degree in Technology of Computer Application with the State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering, [Beihang University](https://www.buaa.edu.cn). My supervisor is [Lu feng](http://scse.buaa.edu.cn/info/1078/2673.htm). The research interests of mine include computer vision and polarization-based vision analysis.
+
+content:
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        list_image: images/JD.jpg
+        quote: >
+            A Sparse Representation Based Joint Demosaicing Method for Single-Chip Polarized Color Sensor
+        description: | # this will include new lines to allow paragraphs
+            For newly released single-chip polarized color sensor, we present a sparse representation-based optimization strategy that utilizes chromatic information and polarimetric information to jointly reconstruct the information. In addition, we build an optical data acquisition system to collect a dataset, which contains various sources of polarization, such as illumination, reflectance and birefringence. <br> 
+            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 2021.</i><br>
+            [PDF][Project][Dataset]
+      - layout: left
+        list_image: images/OL.jpg
+        quote: >
+          Convolutional Demosaicing Network for Joint Chromatic and Polarimetric Imagery
+        description: | # this will include new lines to allow paragraphs
+          In this letter, we collect the first chromatic-polarization dataset and propose a Chromatic-Polarization Demosaicing Network (CPDNet) to address this joint chromatic and polarimetric image demosaicing issue. The proposed CPDNet is composed of the residual block and the multi-task structure with the costumed loss function. <br>
+          <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu, Qinping Zhao &nbsp;&nbsp;&nbsp;Optics Letters, 44(22), 5646-5649, 2019.</i><br>
+          [[PDF]](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-22-5646)[Project][Dataset]
+      - layout: left
+        list_image: images/IS.jpg
+        quote: >
+          Adaptive Synthesis of Indoor Scenes via Activity-Associated Object Relation Graphs
+        description: | # this will include new lines to allow paragraphs
+          <i>Qiang Fu, Xiaowu Chen, Xiaotian Wang, **Sijia Wen**, et al.<br> 
+          ACM Transactions on Graphics, 2017, 36(6CD):201.1-201.13.</i><br>
+          [[PDF]](https://dl.acm.org/doi/abs/10.1145/3130800.3130805)
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
