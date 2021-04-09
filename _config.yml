@@ -42,7 +42,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           In this letter, we collect the first chromatic-polarization dataset and propose a Chromatic-Polarization Demosaicing Network (CPDNet) to address this joint chromatic and polarimetric image demosaicing issue. The proposed CPDNet is composed of the residual block and the multi-task structure with the costumed loss function. <br>
           <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu, Qinping Zhao &nbsp;&nbsp;&nbsp;Optics Letters, 44(22), 5646-5649, 2019.</i><br>
-          [[PDF]](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-22-5646)[Project][Dataset]
+          [[PDF]](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-22-5646)[[Project]](https://github.com/wsj890411/CPDNet)[[Dataset]](https://www.dropbox.com/s/4t3hw6i9tb0nvh2/OL.zip?dl=0)
       - layout: left
         list_image: images/IS.jpg
         quote: >
