@@ -36,6 +36,14 @@ content:
             <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 4171-4182, 2021.</i><br>
             [[PDF]](https://ieeexplore.ieee.org/abstract/document/9397396/)[[Project]](https://github.com/wsj890411/JCPD_Model)[[Dataset]](https://www.dropbox.com/s/q377c1iktxwe22a/TIP_raw_dataset.zip?dl=0)
       - layout: left
+        list_image: images/JD.jpg
+        quote: >
+            A Sparse Representation Based Joint Demosaicing Method for Single-Chip Polarized Color Sensor
+        description: | # this will include new lines to allow paragraphs
+            For newly released single-chip polarized color sensor, we present a sparse representation-based optimization strategy that utilizes chromatic information and polarimetric information to jointly reconstruct the information. In addition, we build an optical data acquisition system to collect a dataset, which contains various sources of polarization, such as illumination, reflectance and birefringence. <br> 
+            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 4171-4182, 2021.</i><br>
+            [[PDF]](https://ieeexplore.ieee.org/abstract/document/9397396/)[[Project]](https://github.com/wsj890411/JCPD_Model)[[Dataset]](https://www.dropbox.com/s/q377c1iktxwe22a/TIP_raw_dataset.zip?dl=0)
+      - layout: left
         list_image: images/OL.jpg
         quote: >
           Convolutional Demosaicing Network for Joint Chromatic and Polarimetric Imagery
