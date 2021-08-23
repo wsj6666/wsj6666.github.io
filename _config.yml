@@ -33,8 +33,8 @@ content:
             Polarization Guided Specular Reflection Separation
         description: | # this will include new lines to allow paragraphs
             In this paper, we derive a polarization guided model to incorporate the polarization information into a designed iteration optimization separation strategy to separate the specular reflection. Based on the analysis of polarization, the polarization guided model can generate a polarization chromaticity image, which is able to reveal the geometrical profile of the input image in complex scenarios. With the polarization guided model, we reformulate the specular reflection separation into a unified optimization function which can be solved by the ADMM strategy. <br> 
-            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 4171-4182, 2021.</i><br>
-            [[PDF]](https://ieeexplore.ieee.org/abstract/document/9397396/)[[Project]](https://github.com/wsj890411/JCPD_Model)[[Dataset]](https://www.dropbox.com/s/q377c1iktxwe22a/TIP_raw_dataset.zip?dl=0)
+            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 7280-7291, 2021.</i><br>
+            [[PDF]](https://ieeexplore.ieee.org/document/9515579)[[Project]][[Dataset]]
       - layout: left
         list_image: images/JD.jpg
         quote: >
