@@ -28,7 +28,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        list_image: images/HR.jp
+        list_image: images/HR.jpg
         quote: >
             Polarization Guided Specular Reflection Separation
         description: | # this will include new lines to allow paragraphs
