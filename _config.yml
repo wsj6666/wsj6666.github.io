@@ -32,7 +32,7 @@ content:
         quote: >
             Polarization Guided Specular Reflection Separation
         description: | # this will include new lines to allow paragraphs
-            In this paper, we derive a polarization guided model to incorporate the polarization information into a designed iteration optimization separation strategy to separate the specular reflection. The proposed polarization guided model can generate a polarization chromaticity image, which is able to reveal the geometrical profile of the input image in complex scenarios. Then we reformulate the specular reflection separation into a unified optimization function. <br> 
+            In this paper, we derive a polarization guided model to incorporate the polarization information into a designed iteration optimization separation strategy to separate the specular reflection. The proposed polarization guided model can generate a polarization chromaticity image, which is able to reveal the intrinsic geometrical profile of the input image. <br> 
             <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 7280-7291, 2021.</i><br>
             [[PDF]](https://ieeexplore.ieee.org/document/9515579)[[Project]][[Dataset]]
       - layout: left
@@ -40,7 +40,7 @@ content:
         quote: >
             A Sparse Representation Based Joint Demosaicing Method for Single-Chip Polarized Color Sensor
         description: | # this will include new lines to allow paragraphs
-            For newly released single-chip polarized color sensor, we present a sparse representation-based optimization strategy that utilizes chromatic information and polarimetric information to jointly reconstruct the information. In addition, we build an optical data acquisition system to collect a dataset, which contains various sources of polarization, such as illumination, reflectance and birefringence. <br> 
+            For newly released single-chip polarized color sensor, we present a sparse representation-based optimization strategy that utilizes chromatic information and polarimetric information to jointly reconstruct the information. In addition, we build an optical data acquisition system to collect a dataset, which contains various sources of polarization. <br> 
             <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 4171-4182, 2021.</i><br>
             [[PDF]](https://ieeexplore.ieee.org/abstract/document/9397396/)[[Project]](https://github.com/wsj890411/JCPD_Model)[[Dataset]](https://www.dropbox.com/s/q377c1iktxwe22a/TIP_raw_dataset.zip?dl=0)
       - layout: left
