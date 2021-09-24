@@ -33,7 +33,7 @@ content:
             3D Photography with One-shot Portrait Relightin
         description: | # this will include new lines to allow paragraphs
             In this paper, we present a physical-based framework that explicitly models 3D photography with relighting from a one-shot portrait. By extracting facial albedo and rendering realistic reflected light, our method is capable of generating novel views with different lighting conditions, which can faithfully deliver realistic rendered results. <br> 
-            <i>Yunfei Liu\u2217, **Sijia Wen***, Feng Lu &nbsp;&nbsp;&nbsp;IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Poster, 2021.</i><br>
+            <i>Yunfei Liu&lowast, **Sijia Wen&lowast**, Feng Lu &nbsp;&nbsp;&nbsp;IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Poster, 2021.</i><br>
             [[PDF]][[Project]][[Dataset]]
       - layout: left
         list_image: images/HR.jpg
