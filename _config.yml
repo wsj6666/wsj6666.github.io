@@ -42,7 +42,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             In this paper, we derive a polarization guided model to incorporate the polarization information into a designed iteration optimization separation strategy to separate the specular reflection. The proposed polarization guided model can generate a polarization chromaticity image, which is able to reveal the intrinsic geometrical profile of the input image. <br> 
             <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 7280-7291, 2021.</i><br>
-            [[PDF]](https://ieeexplore.ieee.org/document/9515579)[[Project]][[Dataset]]
+            [[PDF]](https://ieeexplore.ieee.org/document/9515579)[[Project]](https://github.com/wsj890411/Polar_HR)[[Dataset]](https://pan.baidu.com/s/1cSshmBUJpSDrlmHUqRN3KA)
       - layout: left
         list_image: images/JD.jpg
         quote: >
