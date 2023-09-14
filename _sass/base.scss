@@ -6,7 +6,7 @@
 button, input[type="button"], input[type="reset"], input[type="submit"] {
   appearance: none;
   background-color: #477dca;
-  border: 1px solid black;
+  border: 0;
   border-radius: 3px;
   color: #fff;
   cursor: pointer;
@@ -100,8 +100,8 @@ hr {
 
 img,
 picture {
-  margin: 0 auto;
-  //max-width: 100%; }
+  margin: 0;
+  max-width: 100%; }
 
 html {
   box-sizing: border-box; }
@@ -147,7 +147,6 @@ html {
     top: 0px; }
 
 body {
-  border: 1px solid black;
   background: #ffffff;
   font-family: Roboto, sans-serif;
   -webkit-font-smoothing: antialiased; }
@@ -156,16 +155,14 @@ body {
   text-align: center; }
 
 .container {
-  //max-width: 1000px;
-  margin: 0 auto;
-  //margin-top:30px;
+  margin-top:30px;
 
   @media print {
     margin-top: 20px;
   }
 }
 
-.header-contianer {
+.header-container {
   margin-top:50px;
 }
 
