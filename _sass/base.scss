@@ -101,8 +101,7 @@ hr {
 img,
 picture {
   margin: 0;
-  //max-width: 100%; 
-}
+  max-width: 100%; }
 
 html {
   box-sizing: border-box; }
@@ -156,11 +155,7 @@ body {
   text-align: center; }
 
 .container {
-  max-width: 1000px;
-  margin: 0 auto;
   margin-top:30px;
-  margin-left:60px;
-  margin-right:60px;
 
   @media print {
     margin-top: 20px;
