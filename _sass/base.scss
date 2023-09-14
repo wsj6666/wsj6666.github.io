@@ -6,9 +6,8 @@
 button, input[type="button"], input[type="reset"], input[type="submit"] {
   appearance: none;
   background-color: #477dca;
-  border: 5px solid black;
+  border: 1px solid black;
   border-radius: 3px;
-  overflow: auto;
   color: #fff;
   cursor: pointer;
   display: inline-block;
@@ -149,7 +148,6 @@ html {
 
 body {
   border: 1px solid black;
-  overflow: auto;
   background: #ffffff;
   font-family: Roboto, sans-serif;
   -webkit-font-smoothing: antialiased; }
