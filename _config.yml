@@ -32,7 +32,7 @@ content:
         quote: >
             High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation
         description: | # this will include new lines to allow paragraphs
-            In this paper, we propose a polarimetric implicit 3D reconstruction method that integrates geometric and polarization information, enabling the production of high-quality meshes in complex scenes. For high-fidelity surface reconstruction, we introduce a view-dependent physical representation that thoroughly analyzes the subtle physical properties of reflections. The reconstruction process is further enhanced by a simple yet effective view-dependent detection algorithm and optimized using the principles of ray tracing and polarization. <br> 
+            We propose a polarimetric implicit 3D reconstruction method that integrates geometric and polarization data to generate high-quality meshes in complex scenes. A view-dependent physical representation analyzes subtle reflection properties, enhanced by a simple detection algorithm and optimized with ray tracing and polarization principles. <br> 
             <i>Yu Qiu, **Sijia Wen#**, Hainan Zhang, Zhiming Zheng &nbsp;&nbsp;&nbsp;The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</i><br>
             [[PDF]]()[[Project]][[Dataset]]
       - layout: left
@@ -40,7 +40,7 @@ content:
         quote: >
             Polarization State Attention Dehazing Network with a Simulated Polar-Haze Dataset
         description: | # this will include new lines to allow paragraphs
-            In this paper, we introduce polarization cues to propose a haze simulation strategy to synthesize hazy data, ensuring visually pleasing results that adhere to physical laws. Leveraging on the simulated Polar-Haze dataset, we present a polarization state attention dehazing network (PSADNet), which consists of a polarization extraction module and a polarization dehazing module. The proposed polarization extraction model incorporates an attention mechanism to capture high-level image features related to polarization and chromaticity. The polarization dehazing module utilizes these features derived from the polarization analysis to enhance image dehazing capabilities while preserving the accuracy of the polarization information. <br> 
+            We propose a haze simulation strategy using polarization cues to generate realistic hazy data. Using the Polar-Haze dataset, our polarization state attention dehazing network (PSADNet) combines an attention-based extraction module to capture key features and a dehazing module that enhances clarity while preserving polarization accuracy. <br> 
             <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Multimedia, 2024.</i><br>
             [[PDF]](https://ieeexplore.ieee.org/document/10812839)[[Project]][[Dataset]]
       - layout: left
@@ -48,7 +48,7 @@ content:
         quote: >
             A Cross-Consistency Strategy for Clearer Perception in Low-Light Haze
         description: | # this will include new lines to allow paragraphs
-            In this paper, we introduce two key techniques: a cross-consistency dehazing-enhancement framework and a physically based simulation for generating a low-light hazy dataset. The framework is specically designed to improve the visibility of input images by leveraging information from various sub-tasks, while the simulation is developed to create datasets with ground truth using the proposed low-light hazy imaging model. <br> 
+            We introduce two key techniques: a cross-consistency dehazing-enhancement framework and a physically based simulation for generating a low-light hazy dataset. The framework improves image visibility by leveraging information from multiple sub-tasks, while the simulation creates ground truth datasets using a low-light hazy imaging model. <br> 
             <i>**Sijia Wen**, Chaoqun Zhuang, Yunfei Liu, Feng Lu &nbsp;&nbsp;&nbsp;Chinese Conference on Pattern Recognition and Computer Vision (PRCV) Poster, 2024.</i><br>
             [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8685-5_5)[[Project]][[Dataset]]
       - layout: left
