@@ -18,7 +18,7 @@
 
 /* 全局基础字体 */
 body {
-  font-size: 0.875rem; /* 14px，缩小全局字体 */
+  font-size: 0.875rem !important; /* 14px，缩小全局字体 */
   line-height: 1.6;
 }
 
@@ -127,7 +127,7 @@ body {
 
 .layout .details p {
   margin-bottom: 3px;
-  font-size: 1rem; /* 16px -> 1rem，调小段落字体 */
+  font-size: 1rem !important; /* 16px -> 1rem，调小段落字体 */
   font-weight: 300;
 }
 
@@ -153,11 +153,11 @@ body {
 }
 
 .layout .details .fa {
-  font-size: 1.6rem; /* 2rem -> 1.6rem，调小图标字体 */
+  font-size: 1.6rem !important; /* 2rem -> 1.6rem，调小图标字体 */
 }
 
 .layout .details .link {
-  font-size: 1.2rem; /* 1.5rem -> 1.2rem，调小链接字体 */
+  font-size: 1.2rem !important; /* 1.5rem -> 1.2rem，调小链接字体 */
 }
 
 /* Footer 样式 */
@@ -186,7 +186,7 @@ body {
 
 /* 引言样式 */
 p.quote {
-  font-size: 1.4rem; /* 1.8rem -> 1.4rem，缩小引言字体 */
+  font-size: 1.4rem !important; /* 1.8rem -> 1.4rem，缩小引言字体 */
   font-weight: bolder;
   padding: 0rem 1rem;
   text-align: center;
