@@ -28,6 +28,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        list_image: images/PolarSLAM.jpg
+        quote: >
+            Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction
+        description: | # this will include new lines to allow paragraphs
+            We propose a polarization-augmented 3DGS-SLAM framework that integrates polarimetric cues with Gaussian splatting to improve scene reconstruction in challenging environments, by enhancing multi-view consistency and keyframe alignment through polarization and enforcing geometry-aware constraints. <br> 
+            <i>Haitao Wang, **Sijia Wen#**, Bo Guo &nbsp;&nbsp;&nbsp;The 33rd ACM International Conference on Multimedia (MM), 2025.</i><br>
+            [[PDF]]()[[Project]][[Dataset]]
+      - layout: left
         list_image: images/High-Fidelity Polarimetric Implicit 3D Reconstruction via view dependent Physical Representation.jpg
         quote: >
             High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation
