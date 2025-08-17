@@ -41,7 +41,7 @@ content:
             High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation
         description: | # this will include new lines to allow paragraphs
             We propose a polarimetric implicit 3D reconstruction method that integrates geometric and polarization data to generate high-quality meshes in complex scenes. A view-dependent physical representation analyzes subtle reflection properties, enhanced by a simple detection algorithm and optimized with ray tracing and polarization principles. <br> 
-            <i>Yu Qiu, **Sijia Wen#**, Hainan Zhang, Zhiming Zheng &nbsp;&nbsp;&nbsp; The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</i><br>
+            <i>Yu Qiu, **Sijia Wen#**, Hainan Zhang, Zhiming Zheng &nbsp;&nbsp;&nbsp;The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</i><br>
             [[PDF]]()[[Project]][[Dataset]]
       - layout: left
         list_image: images/PolarDehaze.jpg
