@@ -57,7 +57,7 @@ content:
             A Cross-Consistency Strategy for Clearer Perception in Low-Light Haze
         description: | # this will include new lines to allow paragraphs
             We introduce two key techniques: a cross-consistency dehazing-enhancement framework and a physically based simulation for generating a low-light hazy dataset. The framework improves image visibility by leveraging information from multiple sub-tasks, while the simulation creates ground truth datasets using a low-light hazy imaging model. <br> 
-            <i>**Sijia Wen**, Chaoqun Zhuang, Yunfei Liu, Feng Lu &nbsp;&nbsp;&nbsp; Chinese Conference on Pattern Recognition and Computer Vision (PRCV) Poster, 2024.</i><br>
+            <i>**Sijia Wen**, Chaoqun Zhuang, Yunfei Liu, Feng Lu &nbsp;&nbsp;&nbsp; Pattern Recognition and Computer Vision (PRCV) Poster, 2024.</i><br>
             [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8685-5_5)[[Project]][[Dataset]]
       - layout: left
         list_image: images/in_vr.jpg
