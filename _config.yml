@@ -33,7 +33,7 @@ content:
             Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction
         description: | # this will include new lines to allow paragraphs
             We propose a polarization-augmented 3DGS-SLAM framework that integrates polarimetric cues with Gaussian splatting to improve scene reconstruction in challenging environments, by enhancing multi-view consistency and keyframe alignment through polarization and enforcing geometry-aware constraints. <br> 
-            <i>Haitao Wang, **Sijia Wen#**, Bo Guo &nbsp;&nbsp;&nbsp;The 33rd ACM International Conference on Multimedia (MM), 2025.</i><br>
+            <i>Haitao Wang, **Sijia Wen#**, Bo Guo &nbsp;&nbsp;&nbsp; The 33rd ACM International Conference on Multimedia (MM), 2025.</i><br>
             [[PDF]]()[[Project]][[Dataset]]
       - layout: left
         list_image: images/High-Fidelity Polarimetric Implicit 3D Reconstruction via view dependent Physical Representation.jpg
@@ -41,7 +41,7 @@ content:
             High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation
         description: | # this will include new lines to allow paragraphs
             We propose a polarimetric implicit 3D reconstruction method that integrates geometric and polarization data to generate high-quality meshes in complex scenes. A view-dependent physical representation analyzes subtle reflection properties, enhanced by a simple detection algorithm and optimized with ray tracing and polarization principles. <br> 
-            <i>Yu Qiu, **Sijia Wen#**, Hainan Zhang, Zhiming Zheng &nbsp;&nbsp;&nbsp;The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</i><br>
+            <i>Yu Qiu, **Sijia Wen#**, Hainan Zhang, Zhiming Zheng &nbsp;&nbsp;&nbsp; The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</i><br>
             [[PDF]]()[[Project]][[Dataset]]
       - layout: left
         list_image: images/PolarDehaze.jpg
@@ -57,7 +57,7 @@ content:
             A Cross-Consistency Strategy for Clearer Perception in Low-Light Haze
         description: | # this will include new lines to allow paragraphs
             We introduce two key techniques: a cross-consistency dehazing-enhancement framework and a physically based simulation for generating a low-light hazy dataset. The framework improves image visibility by leveraging information from multiple sub-tasks, while the simulation creates ground truth datasets using a low-light hazy imaging model. <br> 
-            <i>**Sijia Wen**, Chaoqun Zhuang, Yunfei Liu, Feng Lu &nbsp;&nbsp;&nbsp;Chinese Conference on Pattern Recognition and Computer Vision (PRCV) Poster, 2024.</i><br>
+            <i>**Sijia Wen**, Chaoqun Zhuang, Yunfei Liu, Feng Lu &nbsp;&nbsp;&nbsp; Chinese Conference on Pattern Recognition and Computer Vision (PRCV) Poster, 2024.</i><br>
             [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8685-5_5)[[Project]][[Dataset]]
       - layout: left
         list_image: images/in_vr.jpg
@@ -65,7 +65,7 @@ content:
             3D Photography with One-shot Portrait Relighting
         description: | # this will include new lines to allow paragraphs
             In this paper, we present a physical-based framework that explicitly models 3D photography with relighting from a one-shot portrait. By extracting facial albedo and rendering realistic reflected light, our method is capable of generating novel views with different lighting conditions, which can faithfully deliver realistic rendered results. <br> 
-            <i>Yunfei Liu</i>*<i>, **Sijia Wen***, Feng Lu &nbsp;&nbsp;&nbsp;IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Poster, 2021.</i><br>
+            <i>Yunfei Liu</i>*<i>, **Sijia Wen***, Feng Lu &nbsp;&nbsp;&nbsp; IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Poster, 2021.</i><br>
             [[PDF]](https://ieeexplore.ieee.org/abstract/document/9585876/)[[Project]][[Dataset]]
       - layout: left
         list_image: images/HR.jpg
@@ -73,7 +73,7 @@ content:
             Polarization Guided Specular Reflection Separation
         description: | # this will include new lines to allow paragraphs
             In this paper, we derive a polarization guided model to incorporate the polarization information into a designed iteration optimization separation strategy to separate the specular reflection. The proposed polarization guided model can generate a polarization chromaticity image, which is able to reveal the intrinsic geometrical profile of the input image. <br> 
-            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 7280-7291, 2021.</i><br>
+            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp; IEEE Transactions on Image Processing (TIP), 30: 7280-7291, 2021.</i><br>
             [[PDF]](https://ieeexplore.ieee.org/document/9515579)[[Project]](https://github.com/wsj890411/Polar_HR)[[Dataset]](https://pan.baidu.com/s/1cSshmBUJpSDrlmHUqRN3KA)
       - layout: left
         list_image: images/JD.jpg
@@ -81,7 +81,7 @@ content:
             A Sparse Representation Based Joint Demosaicing Method for Single-Chip Polarized Color Sensor
         description: | # this will include new lines to allow paragraphs
             For newly released single-chip polarized color sensor, we present a sparse representation-based optimization strategy that utilizes chromatic information and polarimetric information to jointly reconstruct the information. In addition, we build an optical data acquisition system to collect a dataset, which contains various sources of polarization. <br> 
-            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp;IEEE Transactions on Image Processing (TIP), 30: 4171-4182, 2021.</i><br>
+            <i>**Sijia Wen**, Yinqiang Zheng, Feng Lu &nbsp;&nbsp;&nbsp; IEEE Transactions on Image Processing (TIP), 30: 4171-4182, 2021.</i><br>
             [[PDF]](https://ieeexplore.ieee.org/abstract/document/9397396/)[[Project]](https://github.com/wsj890411/JCPD_Model)[[Dataset]](https://www.dropbox.com/s/q377c1iktxwe22a/TIP_raw_dataset.zip?dl=0)
       - layout: left
         list_image: images/OL.jpg
