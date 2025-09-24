@@ -30,13 +30,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          list_image: images/PolarSLAM.jpg
-          quote: >
-              TGA: True-to-Geometry Avatar Dynamic Reconstruction
-          description: | # this will include new lines to allow paragraphs
-              We propose TGA, a perspective-aware 4D Gaussian avatar reconstruction framework that addresses the limitations of affine projection in capturing subtle facial geometry. The proposed TGA enables color-sensitive, geometry-consistent representation and efficient mesh extraction. <br> 
-              <i>Bo Guo, **Sijia Wen***, Ziwei Wang, Yifan Zhao &nbsp;&nbsp;&nbsp; Advances in Neural Information Processing Systems (NeurIPS) 2026, **spotlight**.</i><br>
-              [[PDF]]()[[Project]][[Dataset]]
+        list_image: images/PolarSLAM.jpg
+        quote: >
+            TGA: True-to-Geometry Avatar Dynamic Reconstruction
+        description: | # this will include new lines to allow paragraphs
+            We propose TGA, a perspective-aware 4D Gaussian avatar reconstruction framework that addresses the limitations of affine projection in capturing subtle facial geometry. The proposed TGA enables color-sensitive, geometry-consistent representation and efficient mesh extraction. <br> 
+            <i>Bo Guo, **Sijia Wen***, Ziwei Wang, Yifan Zhao &nbsp;&nbsp;&nbsp; Advances in Neural Information Processing Systems (NeurIPS) 2026, **spotlight**.</i><br>
+            [[PDF]]()[[Project]][[Dataset]]
       - layout: left
         list_image: images/PolarSLAM.jpg
         quote: >
