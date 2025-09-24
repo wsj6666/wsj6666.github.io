@@ -30,7 +30,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        list_image: images/PolarSLAM.jpg
+        list_image: images/nips.jpg
         quote: >
             TGA: True-to-Geometry Avatar Dynamic Reconstruction
         description: | # this will include new lines to allow paragraphs
