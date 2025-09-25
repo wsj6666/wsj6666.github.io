@@ -90,6 +90,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.buaa_link -%}
+          <li>
+            <a target="_blank" href="https://iai.buaa.edu.cn/info/1013/2688.htm" class="button button--sacnite button--round-l">
+              <i class="fas fa-university" title="Beihang University"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.orcid_username -%}
           <li>
             <a target="_blank" href="https://orcid.org/{{ site.orcid_username | escape }}" class="button button--sacnite button--round-l">
